@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/frag_home"
+        android:title="Home"
+        />
+
+    <item
+        android:id="@+id/frag_profile"
+        android:title="Profile"
+        />
+
+    <item
+        android:id="@+id/frag_about_us"
+        android:title="About Us"
+        />
+
+    <item
+        android:id="@+id/frag_settings"
+        android:title="Settings"
+        />
+
+</menu>
